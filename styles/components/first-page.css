@@ -25,3 +25,40 @@
     font-size: 17px;
 }
 
+/* actions */
+
+.actions{
+    position: absolute;
+    left: 20px;
+    right:17px;
+    top: 140px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.actions__input{
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    background: rgba(0, 0, 0, 0.05);
+
+   
+}
+
+ .emoji__input{
+    border: none;
+    background: rgba(0, 0, 0, 0.0);
+    outline: none;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 17px;
+
+} 
+
+.emoji{
+    position: absolute;
+    left: 263px;
+    top: 5px;
+
+
+}
