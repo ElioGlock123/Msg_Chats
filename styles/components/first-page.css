@@ -41,9 +41,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 15px;
-    background: rgba(0, 0, 0, 0.05);
-
-   
+    background: rgba(0, 0, 0, 0.05); 
 }
 
  .emoji__input{
@@ -52,6 +50,7 @@
     outline: none;
     color: rgba(0, 0, 0, 0.6);
     font-size: 17px;
+    width: 100px;
 
 } 
 
@@ -59,6 +58,4 @@
     position: absolute;
     left: 263px;
     top: 5px;
-
-
 }
