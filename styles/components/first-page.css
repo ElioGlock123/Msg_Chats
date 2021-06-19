@@ -118,18 +118,24 @@
 .to{
     position: absolute;
     top: 308px;
-    left: 20px;
     display: flex;
+    background: #F9F8F9;
+    width: 100%;
 }
 
 .to__input{
     border: none;
     outline: none;
-    background: black;
+    background: #F9F8F9;
+
+
 }
 
 .to__text{
     color: rgba(0, 0, 0, 0.4);
     font-size: 15px;
     font-family: Roboto;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
