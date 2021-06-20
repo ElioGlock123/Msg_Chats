@@ -3,14 +3,14 @@
     width: 90%;
     margin: 0 auto;
     padding-top: 14px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 
 .status-bar__text{
     font-family: Roboto;
     font-weight: 600;
     font-size: 15px;
-    margin-right: 240px;
+    margin-right: 215px;
 }
 
 .status-bar__img{
