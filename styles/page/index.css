@@ -1,4 +1,5 @@
 @import "../components/first-page.css";
 @import "../utils/reset.css";
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
-@import "../components/chats.css"
+@import "../components/chats.css";
+@import "../components/msg.css";
