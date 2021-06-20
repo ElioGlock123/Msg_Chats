@@ -1,0 +1,48 @@
+.text{
+    display: flex;
+    padding-top: 21px;
+    margin-left: 16px;
+}
+
+.text__p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    margin-right: 62px;
+
+}
+
+.text__p-2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+
+}   
+
+
+.to-2 {
+    position: absolute;
+    top: 85px;
+    display: flex;
+    background: #F9F8F9;
+    width: 100%;
+}
+
+.to__input {
+    border: none;
+    outline: none;
+    background: #F9F8F9;
+
+
+}
+
+.to__text {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 15px;
+    font-family: Roboto;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
