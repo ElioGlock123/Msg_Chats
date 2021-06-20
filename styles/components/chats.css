@@ -3,6 +3,7 @@
     width: 90%;
     margin: 0 auto;
     padding-top: 14px;
+    margin-left: 25px;
 }
 
 .status-bar__text{
@@ -15,4 +16,45 @@
 .status-bar__img{
     margin-right: 5px;
 }
+
+/* chat bar */
+
+.chat-bar{
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 20px;
+}
+
+
+.chat-bar__text{
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 12px;
+    margin-right: 115px;
+}
+
+.chat-bar__img{
+    width: 40px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.04);
+    border-radius: 50px;
+
+}
+
+.chat-bar__img-2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: rgba(0, 0, 0, 0.04);
+    border-radius: 50px;
+    left: 310px;
+}
+
+.chat-bar__img-camera{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
 
