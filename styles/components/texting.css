@@ -1,0 +1,47 @@
+.send-2 {
+    position: absolute;
+    top: 360px;
+    left: 20px;
+    display: flex;
+
+
+}
+
+.send__emoji {
+    position: absolute;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    background: rgba(0, 0, 0, 0.05);
+    left: 30px;
+}
+
+.input__send {
+    border: none;
+    outline: none;
+    color: #0584FE;
+    font-size: 17px;
+    width: 250px;
+    background-color: rgba(0, 0, 0, 0.01);
+    font-family: Roboto;
+
+
+}
+
+
+.emoji__input-send {
+    position: absolute;
+    left: 240px;
+
+}
+
+.like__input-send {
+    position: absolute;
+    left: 315px;
+}
+
+.send__seta {
+    position: absolute;
+    top: 5px;
+}
