@@ -1,0 +1,18 @@
+.status-bar{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 14px;
+}
+
+.status-bar__text{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 240px;
+}
+
+.status-bar__img{
+    margin-right: 5px;
+}
+
